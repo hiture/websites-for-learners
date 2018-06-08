@@ -3,6 +3,8 @@
 
 给终身学习者的国外网站推荐列表。（持续更新）
 
+知乎的版本，排版更好一点：<https://www.zhihu.com/question/24143375/answer/412710557>
+
 **筛选标准：**
 
 1. 在精不在多——内容优质，能学到东西是关键。纯粹娱乐性网站不选。
@@ -115,7 +117,7 @@ OpenCulture：<http://www.openculture.com/>
 
 **1. Medium：**<https://medium.com>
 
-可以理解为英文世界的自媒体，不同于Twitter的快餐模式，Medium主打深度长文，不同主题下都能看到大量高质量内容。近几年国外很多独立博客的博主都逐步转向了Medium，在这里你找到不少牛人的踪迹。
+可以理解为英文世界的自媒体，不同于Twitter的快餐模式，Medium主打深度长文，不同主题下都能看到大量高质量内容。近几年国外很多独立博客的博主都逐步转向了Medium，在这里你能找到不少牛人的踪迹。
 
 **2. Reddit：**<https://www.reddit.com>
 
@@ -189,7 +191,7 @@ Instructables举办的创客比赛，每年都有很多不同主题的比赛，�
 
 ## 资源
 
-一些其他学习资源。
+一些其他学习资源，随时取用。
 
 **1. Wikipedia：**<https://www.wikipedia.org>
 
