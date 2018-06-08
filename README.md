@@ -12,15 +12,34 @@
 
 **第一步：**
 
-打开网址 <https://raw.githubusercontent.com/hiture/websites-for-learners/master/websites_for_learners.html> ，单击右键，保存文件到本地。
+打开网址 <https://github.com/hiture/websites-for-learners/releases> ，下载文件```website-for-learners.html```到本地。
+
+![演示图片](https://github.com/hiture/websites-for-learners/blob/master/screenshots/screenshot1.png)
 
 **第二步：**
 
 将上一步中保存的文件导入常用浏览器的收藏夹/书签，以Chrome浏览器为例：
 
-在Chrome中打开地址 <chrome://bookmarks/> 【书签管理器】，点击右上角三个点形状的选项按钮，并选择【导入书签/import bookmarks】，在弹出的窗口中选择导入刚才下载的文件```website-for-learners.html```。
+在Chrome中打开地址 <chrome://bookmarks/> 【书签管理器】，点击右上角三个点形状的选项按钮，并选择【导入书签/import bookmarks】，在弹出的窗口中选择导入刚才下载的文件。
+
+![演示图片](https://github.com/hiture/websites-for-learners/blob/master/screenshots/screenshot2.png)
 
 导入成功后，书签栏中会多出一个文件夹，将它移动到你自己习惯的位置即可。
+
+![演示图片](https://github.com/hiture/websites-for-learners/blob/master/screenshots/screenshot3.png)
+
+**导入各大主流浏览器的方法：**
+
+- 导入Chrome：<https://support.google.com/chrome/answer/96816?hl=zh-Hans>
+
+- 导入Firefox：<https://support.mozilla.org/zh-CN/kb/%E4%BB%8EHTML%E6%96%87%E4%BB%B6%E5%AF%BC%E5%85%A5%E4%B9%A6%E7%AD%BE>
+
+- 导入Safari：<https://support.apple.com/zh-cn/guide/safari/ibrw1015/mac>
+
+- 导入Microsoft Edge：<https://support.microsoft.com/zh-cn/help/4028355/microsoft-edge-import-favorites>
+
+- 其他浏览器请搜索```XX浏览器导入书签```或者```XX浏览器导入收藏夹```。
+
 
 ----------
 
